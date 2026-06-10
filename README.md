@@ -42,13 +42,14 @@ A mod for [Slay the Spire 2](https://store.steampowered.com/app/2868840/Slay_the
 4. After the Act 3 boss, the run continues into Act 4+ with a random **Hive** or **Glory** biome (and more acts after each act boss).
 5. Watch the map top bar for **Act N | Floor X** — floor count drives difficulty.
 6. Only the **act boss node** at the top of the map advances to the next act. Other fights return you to the map.
-7. The run ends when you die (including after Act 3 — you meet the Architect on death instead of an instant game-over screen in the normal path).
+7. If you die in **Act 4 or later**, you get the normal defeated screen, then your run stats (click **Continue**), then The Architect scene (attack sequence), then the run ends and you return to the main menu. Dying in Acts 1–3 works like a normal run.
 
 ## What changes as you climb
 
 | Approx. floor | What to expect |
 |---------------|----------------|
-| Early infinite | More elites on the map; fewer events over time |
+| Acts 1–3 | Same as a normal Custom Run (no infinite difficulty modifiers) |
+| Early Act 4+ | More elites on the map; fewer events over time |
 | 45+ | Harder monster fights (elite-tier encounters) |
 | 65+ | Elite-only fights; occasional mini-boss elites; enemies gain stats over time |
 | 85+ | Most fights are bosses; some bosses spawn with extra elite minions |
@@ -81,7 +82,7 @@ Exact thresholds are tuned in the mod; the table is a rough guide.
 
 ## Multiplayer
 
-All players should run the same mod version. Infinite Floors is primarily tested in single player.
+All players should run the same mod version. Infinite Floors has not been tested in this mode. Your experience and feedback are welcome.
 
 ## License
 
