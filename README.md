@@ -1,4 +1,4 @@
-<img width="1024" height="658" alt="infinite-floors-map-thumbnail" src="https://github.com/user-attachments/assets/ad529a2a-5e8b-4bc2-98a4-20ba5a24b17d" />
+# Infinite Floors
 
 A mod for [Slay the Spire 2](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/) that adds an **Infinite Floors** custom-run modifier. Clear Acts 1–3 as usual, then keep climbing through new random biomes instead of facing the Architect and ending the run.
 
