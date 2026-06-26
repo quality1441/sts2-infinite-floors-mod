@@ -2,7 +2,9 @@
 
 A mod for [Slay the Spire 2](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/) that adds an **Infinite Floors** custom-run modifier. Clear Acts 1–3 as usual, then keep climbing through new random biomes instead of facing the Architect and ending the run.
 
-**Tested with STS2 v0.103.3** (Early Access). New game patches may require a mod update.
+**Tested with STS2 v0.107.1** (Early Access). New game patches may require a mod update.
+
+[Discord](https://qaulity.s.gy/github) · [Patreon](https://www.patreon.com/cw/Qaulity)
 
 ## Requirements
 
